@@ -15,9 +15,9 @@ type Props = {
 export const dynamic = 'force-dynamic';
 
 const instantSearchOptions = {
-  appId: '',
-  apiKey: '',
-  indexName: '',
+  appId: 'testing3YFO8HSRGW',
+  apiKey: '6269571a470609ead1d2191852becc08',
+  indexName: 'prep_dd',
 };
 
 export default async function SearchResultsPage({ searchParams }: Props) {
